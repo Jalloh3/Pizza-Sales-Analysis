@@ -1,2 +1,5 @@
 # Pizza-Sales-Analysis
-Exploratory data analysis of a full year pizza sales dataset using Python and Pandas. The project merges four datasets (orders, order details, pizzas, and pizza types) to analyze revenue, sales trends, customer behavior, peak hours, best and worst performing pizzas, and business insights with visualizations.
+This project analyses one year of sales data from a pizza restaurant using Python, Pandas, and Matplotlib.
+The four datasets (Orders, Order Details, Pizzas, and Pizza Types) were merged into one dataset for analysis.
+The study explores total revenue, total orders, sales trends by hour, day, and month, best and worst selling pizzas, category performance, size preference, and customer behaviour patterns.
+The goal is to extract meaningful business insights that can help improve sales decisions, staffing, and menu planning.
